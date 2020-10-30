@@ -1,0 +1,48 @@
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CopyComplete
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CopyComplete
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\vrisa\Desktop\Homework1\Homework1\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csproj.CopyComplete
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\vrisa\Desktop\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.genruntimeconfig.cache

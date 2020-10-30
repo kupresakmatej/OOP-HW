@@ -1,0 +1,27 @@
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\vrisa\Desktop\zadaća-oop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.pdb
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\vrisa\Desktop\zadaća-oop - Copy\Homework1\Logic\obj\Debug\netstandard2.0\Logic.pdb
+C:\Users\vrisa\Desktop\Homework1\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\vrisa\Desktop\Homework1\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\vrisa\Desktop\Homework1\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\vrisa\Desktop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache
+C:\Users\vrisa\Desktop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\vrisa\Desktop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\vrisa\Desktop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\vrisa\Desktop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\vrisa\Desktop\Homework1\Logic\obj\Debug\netstandard2.0\Logic.pdb
