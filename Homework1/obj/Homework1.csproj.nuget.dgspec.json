@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vrisa\\Desktop\\Homework1\\Homework1\\Homework1.csproj": {}
+    "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Homework1\\Homework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vrisa\\Desktop\\Homework1\\Homework1\\Homework1.csproj": {
+    "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Homework1\\Homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vrisa\\Desktop\\Homework1\\Homework1\\Homework1.csproj",
+        "projectUniqueName": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Homework1\\Homework1.csproj",
         "projectName": "Homework1",
-        "projectPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Homework1\\Homework1.csproj",
+        "projectPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Homework1\\Homework1.csproj",
         "packagesPath": "C:\\Users\\vrisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Homework1\\obj\\",
+        "outputPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Homework1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vrisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj"
+              "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj"
               }
             }
           }
@@ -56,18 +56,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj": {
+    "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj",
+        "projectPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\vrisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\obj\\",
+        "outputPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vrisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,7 +111,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

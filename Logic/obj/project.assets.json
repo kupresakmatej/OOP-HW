@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj",
+      "projectUniqueName": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\Logic.csproj",
+      "projectPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\Logic.csproj",
       "packagesPath": "C:\\Users\\vrisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vrisa\\Desktop\\Homework1\\Logic\\obj\\",
+      "outputPath": "C:\\Users\\vrisa\\Desktop\\OOP-HW\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vrisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,7 +233,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

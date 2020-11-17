@@ -9,8 +9,7 @@ namespace Logic
         private double scoreSum;
         private double maxScore;
         private double averageScore;
-        //private static Random generator = new Random();
-        //private static double currentScore;
+        private EpisodeDesc episode;
 
         public int GetViewerCount() { return this.viewers; }
         public double GetScoreSum() { return this.scoreSum; }
@@ -24,11 +23,12 @@ namespace Logic
         {
 
         }
-        public Episode(int viewers, double scoreSum, double maxScore)
+        public Episode(int viewers, double scoreSum, double maxScore, EpisodeDesc episode)
         {
             this.viewers = viewers;
             this.scoreSum = scoreSum;
             this.maxScore = maxScore;
+            this.episode = episode;
         }
 
         public void AddView(double currentScore)
@@ -49,10 +49,73 @@ namespace Logic
             return averageScore;
         }
 
-        //public static double GenerateRandomScore()
-        //{
-        //    currentScore = generator.NextDouble() * (10.0 - 0.0) + 0.0;
-        //    return currentScore;
-        //}
+        public override string ToString()
+        {
+            return $"{viewers}, {scoreSum}, {maxScore}, {episode}";
+        }
+    }
+
+    public class EpisodeDesc
+    {
+        private int episodeNumber;
+        private TimeSpan episodeLength;
+        private string episodeName;
+
+        public EpisodeDesc(int episodeNumber, TimeSpan episodeLength, string episodeName)
+        {
+            this.episodeNumber = episodeNumber;
+            this.episodeLength = episodeLength;
+            this.episodeName = episodeName;
+        }
+
+        public override string ToString()
+        {
+            return $"{episodeNumber}, {episodeLength}, {episodeName}";
+        }
+    }
+
+    public class TvUtilities
+    {
+        private static Random generator = new Random();
+        private static double currentScore;
+        public static double GenerateRandomScore()
+        {
+            currentScore = generator.NextDouble() * (10.0 - 0.0) + 0.0;
+            return currentScore;
+        }
+
+        public static Episode Parse(string episodeInput)
+        {
+            string[] episode = episodeInput.Split(',');
+            int viewers = Convert.ToInt16(episode[0]);
+            double scoreSum = Convert.ToDouble(episode[1]);
+            double maxScore = Convert.ToDouble(episode[2]);
+            int episodeNumber = Convert.ToInt16(episode[3]);
+            TimeSpan episodeLength = TimeSpan.Parse(episode[4]);
+            string episodeName = episode[5];
+
+            return new Episode(viewers, scoreSum, maxScore, new EpisodeDesc(episodeNumber, episodeLength, episodeName));
+        }
+
+        public static void Sort(Episode[] episodes)
+        {
+            for(int j = 0; j <= episodes.Length - 2; j++)
+            {
+                for(int i = 0; i <= episodes.Length - 2; i++)
+                {
+                    if(episodes[i].GetAverageScore() < episodes[i+1].GetAverageScore())
+                    {
+                        Swap(ref episodes[i + 1], ref episodes[i]);
+                    }
+                }
+            }
+        }
+
+        public static void Swap(ref Episode ep1, ref Episode ep2)
+        {
+            Episode tmp = ep1;
+            ep1 = ep2;
+            ep2 = tmp;
+        }
     }
 }
